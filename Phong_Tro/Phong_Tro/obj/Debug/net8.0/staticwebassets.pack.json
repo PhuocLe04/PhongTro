@@ -1,0 +1,877 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Phong_Tro.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Phong_Tro.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\creditly.css",
+      "PackagePath": "staticwebassets\\css\\creditly.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\css\\default-skin.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\easy-responsive-tabs.css",
+      "PackagePath": "staticwebassets\\css\\easy-responsive-tabs.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\css\\flexslider.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\menu.css",
+      "PackagePath": "staticwebassets\\css\\menu.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\popuo-box.css",
+      "PackagePath": "staticwebassets\\css\\popuo-box.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\IcoMoon-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IcoMoon-Free.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\icon\\Product-Sale-Flyer-Template-V-3-990x518.jpg",
+      "PackagePath": "staticwebassets\\icon\\Product-Sale-Flyer-Template-V-3-990x518.jpg"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\icon\\Twitter.png",
+      "PackagePath": "staticwebassets\\icon\\Twitter.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\icon\\call.png",
+      "PackagePath": "staticwebassets\\icon\\call.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\icon\\email.png",
+      "PackagePath": "staticwebassets\\icon\\email.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\icon\\facebook.png",
+      "PackagePath": "staticwebassets\\icon\\facebook.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\icon\\instagram.png",
+      "PackagePath": "staticwebassets\\icon\\instagram.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\icon\\linkedin.png",
+      "PackagePath": "staticwebassets\\icon\\linkedin.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\icon\\loc.png",
+      "PackagePath": "staticwebassets\\icon\\loc.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\icon\\testimonial_qoute.png",
+      "PackagePath": "staticwebassets\\icon\\testimonial_qoute.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\icon\\travel-icon.png",
+      "PackagePath": "staticwebassets\\icon\\travel-icon.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\icon\\travel-icon2.png",
+      "PackagePath": "staticwebassets\\icon\\travel-icon2.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\icon\\travel-icon3.png",
+      "PackagePath": "staticwebassets\\icon\\travel-icon3.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\icon\\travel-icon4.png",
+      "PackagePath": "staticwebassets\\icon\\travel-icon4.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\icon\\wfe4.png",
+      "PackagePath": "staticwebassets\\icon\\wfe4.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\images\\banner02.jpg",
+      "PackagePath": "staticwebassets\\images\\banner02.jpg"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\images\\banner03.jpg",
+      "PackagePath": "staticwebassets\\images\\banner03.jpg"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\images\\menu_icon.png",
+      "PackagePath": "staticwebassets\\images\\menu_icon.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\images\\search_icon.png",
+      "PackagePath": "staticwebassets\\images\\search_icon.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\images\\star.png",
+      "PackagePath": "staticwebassets\\images\\star.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\images\\top_arrow.png",
+      "PackagePath": "staticwebassets\\images\\top_arrow.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\SmoothScroll.min.js",
+      "PackagePath": "staticwebassets\\js\\SmoothScroll.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\creditly.js",
+      "PackagePath": "staticwebassets\\js\\creditly.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\creditly2.js",
+      "PackagePath": "staticwebassets\\js\\creditly2.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\easing.js",
+      "PackagePath": "staticwebassets\\js\\easing.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\easyResponsiveTabs.js",
+      "PackagePath": "staticwebassets\\js\\easyResponsiveTabs.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\imagezoom.js",
+      "PackagePath": "staticwebassets\\js\\imagezoom.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\jquery-2.2.3.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.2.3.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\minicart.js",
+      "PackagePath": "staticwebassets\\js\\minicart.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\js\\modernizer.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\js\\move-top.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\plugin.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\assets\\coloredbg.png",
+      "PackagePath": "staticwebassets\\js\\revolution\\assets\\coloredbg.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\assets\\gridtile.png",
+      "PackagePath": "staticwebassets\\js\\revolution\\assets\\gridtile.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\assets\\gridtile_3x3.png",
+      "PackagePath": "staticwebassets\\js\\revolution\\assets\\gridtile_3x3.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\assets\\gridtile_3x3_white.png",
+      "PackagePath": "staticwebassets\\js\\revolution\\assets\\gridtile_3x3_white.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\assets\\gridtile_white.png",
+      "PackagePath": "staticwebassets\\js\\revolution\\assets\\gridtile_white.png"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\js\\revolution\\assets\\loader.gif"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\css\\closedhand.html",
+      "PackagePath": "staticwebassets\\js\\revolution\\css\\closedhand.html"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\css\\layers.css",
+      "PackagePath": "staticwebassets\\js\\revolution\\css\\layers.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\css\\navigation.css",
+      "PackagePath": "staticwebassets\\js\\revolution\\css\\navigation.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\css\\openhand.html",
+      "PackagePath": "staticwebassets\\js\\revolution\\css\\openhand.html"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\css\\settings.css",
+      "PackagePath": "staticwebassets\\js\\revolution\\css\\settings.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.eot",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\revicons\\revicons90c6.eot"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.svg",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\revicons\\revicons90c6.svg"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.ttf",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\revicons\\revicons90c6.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.woff",
+      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\revicons\\revicons90c6.woff"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\revolution\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\js\\revolution\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\scroll.js",
+      "PackagePath": "staticwebassets\\js\\scroll.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\js\\slider-setting.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\Code\\Phong_Tro\\Phong_Tro\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Phong_Tro.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Phong_Tro.props",
+      "PackagePath": "build\\Phong_Tro.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Phong_Tro.props",
+      "PackagePath": "buildMultiTargeting\\Phong_Tro.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Phong_Tro.props",
+      "PackagePath": "buildTransitive\\Phong_Tro.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

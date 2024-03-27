@@ -1,0 +1,32 @@
+<div class="navbar-inner">
+	<div class="container">
+		<nav class="navbar navbar-expand-lg navbar-light bg-light pl-0">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+					aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<section class="list_of_district">
+					<label for="city">Thành Phố:</label>
+					<select id="city">
+						<option value="hcm">Thành Phố Hồ Chí Minh</option>
+						<!-- Add more cities if needed -->
+					</select>
+
+					<label for="district">Quận:</label>
+					<select id="district" onchange="changeWards()">
+						<option value="q1">Quận 1</option>
+						<option value="q2">Quận 2</option>
+						<option value="q3">Quận 3</option>
+						<!-- Add more districts if needed -->
+					</select>
+
+					<label for="ward">Phường:</label>
+					<select id="ward">
+						<!-- Wards will be populated dynamically based on selected district -->
+					</select>
+				</section>
+			</div>
+		</nav>
+	</div>
+</div>
